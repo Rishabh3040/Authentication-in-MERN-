@@ -1,13 +1,13 @@
 Code authentication system, its veryfy the username and email and ensure same user not exitst
-username : uniue
-email : unique
+username : uniue,
+email : unique,
 
-validation
-verification
-authentication
-authorization
+validation,
+verification,
+authentication,
+authorization,
 
-connected to DB
+connected to DB,
 connect to Cluster
 
 
