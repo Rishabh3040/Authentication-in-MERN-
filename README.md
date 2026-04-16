@@ -1,4 +1,4 @@
-Code authentication system, its veryfy the username and email and ensure same iser not exitst
+Code authentication system, its veryfy the username and email and ensure same user not exitst
 
 
 ![Project Screenshot](https://github.com/Rishabh3040/Authentication-in-MERN-/blob/main/Screenshot%20(440).png)
