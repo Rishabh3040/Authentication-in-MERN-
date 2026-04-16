@@ -1,5 +1,5 @@
 Code authentication system, its veryfy the username and email and ensure same user not exitst
-username : uniue,
+username : unique,
 email : unique,
 
 validation,
