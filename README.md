@@ -1,4 +1,15 @@
 Code authentication system, its veryfy the username and email and ensure same user not exitst
+username : uniue
+email : unique
+
+validation
+verification
+authentication
+authorization
+
+connected to DB
+connect to Cluster
+
 
 
 ![Project Screenshot](https://github.com/Rishabh3040/Authentication-in-MERN-/blob/main/Screenshot%20(440).png)
